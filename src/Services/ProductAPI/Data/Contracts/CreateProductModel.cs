@@ -7,5 +7,6 @@
 
         public string? Description { get; set; }
         public string? CategoryName { get; set; }
+		public DateTime CreatedDate { get; set; }
     }
 }

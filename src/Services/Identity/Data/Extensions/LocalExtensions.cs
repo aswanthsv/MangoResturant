@@ -21,6 +21,8 @@ namespace Mango.Services.Identity.Data.Extensions
             return handler is IAuthenticationSignOutHandler;
         }
 
+
+
         /// <summary>
         /// Checks if the redirect URI is for a native client.
         /// </summary>
